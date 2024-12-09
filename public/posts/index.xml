@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog from obsidian</title>
-      <link>/posts/my-first-blog-post/</link>
+      <link>//localhost:1313/posts/my-first-blog-post/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-first-blog-post/</guid>
+      <guid>//localhost:1313/posts/my-first-blog-post/</guid>
       <description>&lt;h2 id=&#34;why-obsidian&#34;&gt;🪨Why obsidian?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;very good logo&lt;/li&gt;
@@ -31,7 +31,7 @@
 &lt;li&gt;keep visiting my profile for any new updates&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;my-github&#34;&gt;🚀My Github&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;/images/github.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;//localhost:1313/images/github.png&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;why-obsidian&#34;&gt;🪨Why obsidian?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;very good logo&lt;/li&gt;
@@ -50,7 +50,7 @@
 &lt;li&gt;keep visiting my profile for any new updates&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;my-github&#34;&gt;🚀My Github&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;/images/github.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;//localhost:1313/images/github.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
