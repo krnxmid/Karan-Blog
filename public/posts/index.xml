@@ -69,14 +69,23 @@
     
     <item>
       <title></title>
+      <link>/posts/hellooasdfasf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hellooasdfasf/</guid>
+      <description>&lt;p&gt;asdfasfasfasa&lt;/p&gt;</description>
+      <content>&lt;p&gt;asdfasfasfasa&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/posts/why-did-it-didnt-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/why-did-it-didnt-work/</guid>
-      <description>&lt;p&gt;??????????&lt;/p&gt;
-&lt;p&gt;i am losing my mind&lt;/p&gt;</description>
+      <description>&lt;p&gt;??????????&lt;/p&gt;</description>
       <content>&lt;p&gt;??????????&lt;/p&gt;
-&lt;p&gt;i am losing my mind&lt;/p&gt;
 </content>
     </item>
     
